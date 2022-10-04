@@ -1,1 +1,1 @@
-# sonora
+# Homepage for Sonora Linux
